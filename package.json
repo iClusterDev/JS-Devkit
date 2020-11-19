@@ -1,5 +1,5 @@
 {
-  "name": "js-devkit",
+  "name": "devkit",
   "version": "1.0.0",
   "description": "DevKit project creator",
   "main": "index.js",
@@ -23,6 +23,8 @@
     "figlet": "^1.5.0",
     "fs-extra": "^9.0.1",
     "inquirer": "^7.3.3",
+    "replace-in-file": "^6.1.0",
     "typeis.js": "^1.0.18"
-  }
+  },
+  "dependencies": {}
 }
