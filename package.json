@@ -29,5 +29,6 @@
     "type": "git",
     "url": "https://github.com/iClusterDev/JS-Devkit.git"
   },
-  "homepage": "https://github.com/iClusterDev/JS-Devkit.git"
+  "homepage": "https://github.com/iClusterDev/JS-Devkit.git",
+  "dependencies": {}
 }
