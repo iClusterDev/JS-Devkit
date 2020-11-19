@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "DevKit project creator",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./bin/commands.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
