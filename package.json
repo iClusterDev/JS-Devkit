@@ -1,0 +1,26 @@
+{
+  "name": "js-devkit",
+  "version": "1.0.0",
+  "description": "DevKit project creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DevKit",
+    "CLI"
+  ],
+  "author": "iClusterDev",
+  "license": "MIT",
+  "repository": {},
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "commander": "^6.2.0",
+    "figlet": "^1.5.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "typeis.js": "^1.0.18"
+  }
+}
