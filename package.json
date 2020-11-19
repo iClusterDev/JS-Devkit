@@ -14,7 +14,6 @@
   ],
   "author": "iClusterDev",
   "license": "MIT",
-  "repository": {},
   "devDependencies": {
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
@@ -26,5 +25,9 @@
     "replace-in-file": "^6.1.0",
     "typeis.js": "^1.0.18"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iClusterDev/JS-Devkit.git"
+  },
+  "homepage": "https://github.com/iClusterDev/JS-Devkit.git"
 }
