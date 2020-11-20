@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 const program = require('commander');
-const create = require('../lib/Create');
-const notify = require('../lib/Notify');
+const create = require('./lib/Create');
+const notify = require('./lib/Notify');
 
 program.version('1.0.0').description('DevKit CLI');
 
